@@ -1,0 +1,19 @@
+
+{
+	"pksa_name": "MyPKSA",
+	"auto_approve_auth_req": false,
+	"auth_req_approve": false,
+	"auth_req_reject": false,
+	"sign_req_reject": false,
+	"challenge_req_reject": false,
+	"hive_api": "https://api.hive.blog",
+	"has_server": "ws://hive-auth.arcange.eu",
+	"hideEncryptedData": true,
+	"accounts": [
+		{
+			"name": "username",
+			"auths": [
+			]
+		}
+    ]
+}
